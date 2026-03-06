@@ -5,6 +5,14 @@
 <div>
   <p>- 🔬 Biomédica especialista em hematologia </p>
   <p>- 👾 Graduanda em Engenharia de Software (2/8)</p>
+    
+  <p>Após uma trajetória na área da saúde como Biomédica (FURB) e especialista em Hematologia (FPP), decidi unir minha experiência analítica à minha paixão pela tecnologia. Atualmente, curso Engenharia de Software na Católica de Jaraguá do Sul.
+
+Acredito que a precisão laboratorial e o raciocínio clínico que desenvolvi na Biomedicina me deram uma base diferenciada para o desenvolvimento de software: sou detalhista, resiliente e movida por desafios lógicos.
+
+Interesses: Backend, Ciência de Dados e Engenharia de Software aplicada à saúde.
+
+✉️ Contato: beatricefbea@gmail.com </p>  
 </div>
 
 <!--REDES SOCIAIS-->   
