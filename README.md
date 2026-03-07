@@ -2,18 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=600&height=70&duration=4000&lines=💜Olá!+Eu+sou+a+Beatrice+Fischer!" />
 </h1>
 <!--## 💜Olá! Eu sou a Beatrice Fischer!-->
+
 <div>
-  <p>- 🔬 Biomédica especialista em hematologia </p>
   <p>- 👾 Graduanda em Engenharia de Software (2/8)</p>
+  <p>- 🔬 Biomédica especialista em hematologia </p>
     
-  <p>Após uma trajetória na área da saúde como Biomédica (FURB) e especialista em Hematologia (FPP), decidi unir minha experiência analítica à minha paixão pela tecnologia. Atualmente, curso Engenharia de Software na Católica de Jaraguá do Sul.
-
-Acredito que a precisão laboratorial e o raciocínio clínico que desenvolvi na Biomedicina me deram uma base diferenciada para o desenvolvimento de software: sou detalhista, resiliente e movida por desafios lógicos.
-
-Interesses: Backend, Ciência de Dados e Engenharia de Software aplicada à saúde.
-
-✉️ Contato: beatricefbea@gmail.com </p>  
+  <p>Atualmente cursando o 2º período de Engenharia de Software no Centro Universitário Católica de Santa Catarina de Jaraguá do Sul. Com uma trajetória anterior consolidada na área da saúde como Biomédica, estou realizando uma transição de carreira focada em Backend, Ciência de Dados e Engenharia de Software aplicada à saúde.</p>
 </div>
+<br>
 
 <!--REDES SOCIAIS-->   
 <div>
@@ -25,7 +21,7 @@ Interesses: Backend, Ciência de Dados e Engenharia de Software aplicada à saú
 <!--SÍMBOLOS DAS LINGUAGENS-->
 <div style="display: inline_block"><br>
   <h2>⚒️ Linguagens e Ferramentas </h2>
-  <img src="https://skillicons.dev/icons?i=github,git,html,css,javascript,c,python,vscode,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,github,git,vscode,pycharm" /><br>
 </div>
 
 ##
