@@ -7,7 +7,9 @@
   <p>- 👾 Graduanda em Engenharia de Software (3/8)</p>
   <p>- 🔬 Biomédica especialista em hematologia </p>
     
-  <p>Atualmente cursando o 3º período de Engenharia de Software no Centro Universitário Católica de Santa Catarina de Jaraguá do Sul. Com uma trajetória anterior consolidada na área da saúde como Biomédica, estou realizando uma transição de carreira focada em Backend, Ciência de Dados e Engenharia de Software aplicada à saúde.</p>
+  <p>Atualmente cursando o 3º período de Engenharia de Software no Centro Universitário Católica de Santa Catarina de Jaraguá do Sul. Com uma trajetória anterior consolidada na área da saúde como Biomédica, estou realizando uma transição de carreira focada em Backend, Ciência de Dados e Engenharia de Software.</p>
+
+  <p>- 👾 Jogo publicado na itch.io: https://beatricefischer.itch.io/hammertempo </p>
 </div>
 <br>
 
