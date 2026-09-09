@@ -23,7 +23,7 @@
 <!--SÍMBOLOS DAS LINGUAGENS-->
 <div style="display: inline_block"><br>
   <h2>⚒️ Linguagens e Ferramentas </h2>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,github,git,vscode,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,python,github,git,vscode,visualstudio,pycharm" /><br>
 </div>
 
 ##
